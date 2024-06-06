@@ -92,6 +92,8 @@ public class Calculator {
         System.out.println("Result: " + result);
     }
 
+    // TEST
+
     public static void main(String[] args) {
         calc(20, 10, '+');
         calc(20, 10, '-');
